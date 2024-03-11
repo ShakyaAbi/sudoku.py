@@ -1,2 +1,4 @@
-# sudoku.py
-Sudoku solver (GUI)
+# Sudoku.py
+Sudoku solver using python.  (GUI)
+
+
